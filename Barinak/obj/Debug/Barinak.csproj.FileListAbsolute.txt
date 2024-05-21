@@ -1,0 +1,36 @@
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\Barinak.exe.config
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\Barinak.exe
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\Barinak.pdb
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.Form1.resources
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.ListeleForm.resources
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.Properties.Resources.resources
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.YeniEkleForm.resources
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.csproj.GenerateResource.cache
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.exe
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.pdb
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\MySql.Data.dll
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\System.Memory.dll
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\bin\Debug\System.Buffers.dll
+C:\Users\student\Desktop\HAYRI\CSharp Uygulamalar\Barinak\Barinak\obj\Debug\Barinak.csproj.CopyComplete
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\Barinak.exe.config
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\Barinak.exe
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\Barinak.pdb
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\barinak-main\Barinak\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.Form1.resources
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.ListeleForm.resources
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.Properties.Resources.resources
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.YeniEkleForm.resources
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.csproj.GenerateResource.cache
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.csproj.CopyComplete
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.exe
+C:\Users\User\Downloads\barinak-main\Barinak\obj\Debug\Barinak.pdb
